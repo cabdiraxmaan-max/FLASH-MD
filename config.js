@@ -16,7 +16,7 @@ module.exports = {
     CHATBOT: getConfig("CHATBOT") || "off", // on/off chat bot 
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "FLASH-MD",  // Bot's display name
     MODE: getConfig("MODE") || process.env.MODE || "public",        // Bot mode: public/private/group/inbox
-    REPO: process.env.REPO || "https://github.com/cabdiramaan-maxTechXD/KHAN-MD",  // Bot's GitHub repo
+    REPO: process.env.REPO || "https://github.com/cabdiramaan-maxTechXD/FLASH-MD",  // Bot's GitHub repo
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
 
     // ===== OWNER & DEVELOPER SETTINGS =====
