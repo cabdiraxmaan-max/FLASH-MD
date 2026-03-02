@@ -168,7 +168,7 @@
 
 ---
 
-## KHAN-MD FEATURES
+## FLASH-MD FEATURES
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
@@ -211,7 +211,7 @@
 ---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS KHAN-MD
+🧾 PROJECT STATS FLASH-MD
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
@@ -227,10 +227,10 @@
 ## Credits ⚒️
 
 <p><strong>Creator:</strong><br>
-JawadTechXD (Official Creator)</p>
+abdirahmaanTechXD (Official Creator)</p>
 
 <p><strong>Co-Developer:</strong><br>
-JawadYT36 ( Helper )</p>
+abdirahmaanYT37 ( Helper )</p>
 
 ---
 
@@ -286,5 +286,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/JawadYT36">JawadTechX</a>
+  Made with ❤️ by <a href="https://github.com/JawadYT36">abdirahmaanTechX</a>
 </p>
