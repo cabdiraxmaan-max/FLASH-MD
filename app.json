@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "FLASH-MD",
+  "description": "Javascript WhatsApp bot made by abdiraxmaan-max TᴇᴄʜX",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["FLASH-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
