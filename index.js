@@ -1,1 +1,3 @@
-// Deploy From JawadTechXD repo not this *
+// Deploy From abdirahmaanTechXD repo not this *
+
+global.owner = ["252907095444"]
